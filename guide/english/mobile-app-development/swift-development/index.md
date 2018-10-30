@@ -46,4 +46,5 @@ This is my curated list of awesome Swift and iOS Resources for becoming a self-t
 
 #### Youtube Playlists
 
-* [Swift Advanced Object Oriented Programming](https://www.youtube.com/playlist?list=PL8btZwalbjYmZwMwqeeAZKHsQ81GxiuaD)
+* [Learn Swift for Beginners](https://www.youtube.com/watch?v=2OZ07fklur8&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX)
+* [Stanford CS193P iOS 11 Swift 4](https://www.youtube.com/watch?v=71pyOB4TPRE&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq)

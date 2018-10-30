@@ -60,9 +60,10 @@ title: Books to Read for Programmers
 - [Amazon Smile](https://smile.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/)
 - ISBN-13: 978-0262033848
 
-*Cracking the Coding Interview: 150 Programming Questions and Solutions* by Gayle Laakmann McDowell 
-- [Amazon Smile](https://smile.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
-- ISBN-13: 978-0984782802
+*Cracking the Coding Interview: 189 Programming Questions and Solutions*
+- [Amazon Smile](https://smile.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=dp_ob_title_bk)
+- ISBN-13: 978-0984782857
+- [Github](https://github.com/careercup/CtCI-6th-Edition)
 
 *Grokking Algorithms: An illustrated guide for programmers and other curious people* by Aditya Bhargava
 - [Amazon Smile](https://smile.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/)
@@ -106,9 +107,10 @@ title: Books to Read for Programmers
 
 ## Coding Interview
 
-*Cracking the Coding Interview: 150 Programming Questions and Solutions*
-- [Amazon Smile](https://smile.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
-- ISBN-13: 978-0984782802
+*Cracking the Coding Interview: 189 Programming Questions and Solutions*
+- [Amazon Smile](https://smile.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=dp_ob_title_bk)
+- ISBN-13: 978-0984782857
+- [Github](https://github.com/careercup/CtCI-6th-Edition)
 
 *Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition*
 - [Wiley](https://www.wiley.com/en-id/Programming+Interviews+Exposed:+Secrets+to+Landing+Your+Next+Job,+2nd+Edition-p-9780470121672)
